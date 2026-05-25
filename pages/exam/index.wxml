@@ -52,6 +52,7 @@
       <text>清空记录</text>
     </view> -->
   </view>
+
   <view bindtouchmove="scrolltop" class="{{iconInd?'wrap-icon-active':'wrap-icon'}}">
         <scroll-view scrollY bindscroll="viewscroll" scrollTop="{{scrolltop}}" style="height: 100%">
             <view class="icon-circle showzh-active" >
