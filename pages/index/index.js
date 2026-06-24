@@ -7,7 +7,6 @@ Page({
     checkUser: false,
     canIUseGetUserProfile: false,
   },
-
   onLoad: function() {
     if (wx.getUserProfile) {
       this.setData({
