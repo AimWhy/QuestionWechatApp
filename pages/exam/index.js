@@ -48,7 +48,6 @@ Page({
   onReady: function() {
   },
 
-  
   onShow: function() {
     var that = this
     var a = this
